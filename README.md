@@ -15,6 +15,6 @@ This changes depending on the time of day.
 This app is intended for users with busy schedules inorder to aid in adding 
 important events to a daily planner in order to manage time more effectively. 
     
-    [Application Demo] (./Assets/demo.png)
-    [GitHub Page](https://programmerkim.github.io/TimeSaver/)
-    [GitHub Repo](https://github.com/programmerkim/TimeSaver)
+[Application Demo] (./Assets/demo.png)
+[GitHub Page](https://programmerkim.github.io/TimeSaver/)
+[GitHub Repo](https://github.com/programmerkim/TimeSaver)
