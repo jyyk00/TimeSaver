@@ -4,15 +4,17 @@ As you will see this app displays standard business hours between 9 a.m. to 5 p.
 - The time.
 - A field to hold user input.
 - A save button.
+
 By clicking on the save button the users input is stored in a Local Storage. 
 This app is also color coded to reflect whether the time slot is in the: 
 - Past(grey). 
 - Present(red).
 - Future(green).
+
 This changes depending on the time of day.
 This app is intended for users with busy schedules inorder to aid in adding 
 important events to a daily planner in order to manage time more effectively. 
     
-    [Application Demo] (./assets/demo.png)
+    [Application Demo] (./Assets/demo.png)
     [GitHub Page](https://programmerkim.github.io/TimeSaver/)
     [GitHub Repo](https://github.com/programmerkim/TimeSaver)
